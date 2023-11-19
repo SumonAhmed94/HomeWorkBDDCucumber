@@ -12,6 +12,6 @@ Feature: Login test with user Input
     Then I can be logged i
 
     Examples: 
-      | browser  | url                          | username | password |
-      | "Chrome" | "https://www.instagram.com/" | "Sumon"  | "Ayra4625454"   |
-      | "Edge"   | "https://www.instagram.com/" | "Majid"  | "Manha314242"  |
+      | browser  | url                          | username | password      |
+      | "Chrome" | "https://www.instagram.com/" | "Sumon"  | "Ayra4625454" |
+      | "Edge"   | "https://www.instagram.com/" | "Majid"  | "Manha314242" |
